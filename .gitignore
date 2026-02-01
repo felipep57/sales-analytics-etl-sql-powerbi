@@ -1,0 +1,17 @@
+# Raw / sensitive data
+data/*.csv
+data/*.xlsx
+
+# Enviroment variables
+.evn
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#Editor generated folder
+.vs/
