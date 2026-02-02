@@ -94,6 +94,34 @@ Dashboard screenshots are available in the /screenshots folder.
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/dashboard_executive_overview.png)
+
+This view highlights overall sales distribution by state and the
+dominant product subcategories driving unit volume.
+
+---
+
+### Product Category & Subcategory Performance
+![Category & Subcategory Performance](screenshots/dashboard_category_subcategory.png)
+
+This chart shows how demand is concentrated in a small number of
+furniture subcategories, validating the need for refined product
+classification rules.
+
+---
+
+### E-commerce Platform Performance
+![Platform Performance](screenshots/dashboard_platform_performance.png)
+
+Platform-level analysis reveals significant regional differences,
+with Amazon dominating overall volume while Wayfair and TikTok
+over-index in specific states.
+
+---
+
 ## Data Privacy
 
 Raw CSV inputs and any company-sensitive data are excluded from this repository.
